@@ -88,7 +88,8 @@ Minimalism and adaptability are at the core of my engineering and design decisio
 I'm always open to collaborations, technical discussions, and new challenges.
 
 📧 [bhavyduneja@gmail.com](mailto:bhavyduneja@gmail.com)  
-🌐 [LinkedIn →](https://www.linkedin.com/in/bhavy-duneja)
+🌐 [LinkedIn →]<a href="https://www.linkedin.com/in/bhavy-duneja" target="_blank">linkedin.com/in/bhavy-duneja</a>
+
 
 ---
 
