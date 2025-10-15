@@ -93,11 +93,4 @@ I'm always open to collaborations, technical discussions, and new challenges.
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhavy-duneja&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavy-duneja&theme=onedark&row=1&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
 
